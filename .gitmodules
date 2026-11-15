@@ -3,7 +3,7 @@
 	url = https://github.com/iamdiyaajay-png/nasa.git
 [submodule "member-2-backend"]
 	path = member-2-backend
-	url = https://github.com/jasminesunilm1-dotcom/nasa-.git
+	url = https://github.com/iamdiyaajay-png/bhramanasthra-backend.git
 [submodule "member-3-frontend"]
 	path = member-3-frontend
 	url = https://github.com/nihaharih2007pixel/BHRAMANASTRA-.git
