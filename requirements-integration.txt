@@ -1,0 +1,11 @@
+# Bhramanashthra Integration Requirements (Phase 1)
+# --------------------------------------------------
+# DEC-01: Editable installation of Member 1 Science package
+-e ./member-1-science
+
+# Member 2 Backend runtime dependencies
+-r member-2-backend/backend/requirements.txt
+
+# DEC-02: Authoritative Geodetic Transformation Library
+pyproj>=3.6.0
+

@@ -1,0 +1,6 @@
+﻿[submodule "member-1-science"]
+	path = member-1-science
+	url = https://github.com/iamdiyaajay-png/nasa.git
+[submodule "member-2-backend"]
+	path = member-2-backend
+	url = https://github.com/jasminesunilm1-dotcom/nasa-.git
